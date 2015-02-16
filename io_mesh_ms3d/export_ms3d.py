@@ -19,7 +19,7 @@
 # Copyright (C) 2004-2015: Paul Vint pjvint@gmail.com
 
 """
-This script exports Milkshape text files from Blender. It supports normals,
+This script exports Milkshape3d text files from Blender (http://www.blender.org). It supports face and vertex normals,
 colours, and texture coordinates per face or per vertex.
 Only one mesh can be exported at a time.
 """
